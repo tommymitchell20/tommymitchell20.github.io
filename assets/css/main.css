@@ -1,0 +1,25 @@
+body {
+	font-family: Helvetica,Arial,sans-serif;
+	font-size: 32px;
+	background-color:lime;
+	color:grey;
+
+}
+
+
+a {
+	color:red;
+}
+.container {
+	display:flex;
+	flex-wrap:wrap;
+}
+
+/*title*/
+div.title="title container">
+<div class="item w1of2">
+unnlock level 1	
+</div>
+<div class="item">
+World space
+
