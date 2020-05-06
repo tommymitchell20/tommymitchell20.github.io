@@ -23,3 +23,31 @@ unnlock level 1
 <div class="item">
 World space
 
+body {
+  font-size:200px;
+}
+
+.background {
+  height:100vh;
+  width:100vw;
+  background-color: red;
+}
+
+.background video {
+  width:100%;
+  height:100%;
+  object-fit:cover;
+}
+
+.main {
+  position: relative;
+}
+
+.box {
+  position: absolute;
+  top:100px;
+  left:200px;
+  width: 100px;
+  height:100px;
+  background-color: red;
+}
