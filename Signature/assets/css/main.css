@@ -1,0 +1,141 @@
+body {
+	font-family: Helvetica,Arial,sans-serif;
+	font-size: 32px;
+	background-color:white;
+}
+
+a {
+	color:red;
+}
+
+
+
+.title {
+	font-family:copperplate;
+	color:white;
+	margin-left: 0px;
+	font-size: 500px;
+	text-shadow: 0px 0px 60px black;
+}
+
+.title:hover {
+	color:grey;
+}
+
+.header {
+  font-family:copperplate;
+  width:100%;
+  margin: auto;
+  padding-left:50px;
+  font-size: 50px;
+  background-color: black;
+  display:block;
+  color:white;
+  position:center;
+  text-transform: uppercase;
+  border-bottom:3px solid lightgrey;
+  cursor: pointer;
+
+}
+
+.header:hover {
+	color:grey;
+}
+
+.toggle {
+  text-transform: lowercase;
+  color:grey;
+  padding-left:0px;
+  padding-right:50px;
+  display:none;
+  font-family:copperplate;
+}
+
+
+.keyboard img {
+	width:1680px;
+	height:800px;
+}
+
+.keyboard img:hover {
+ transform:skew(-10deg);
+ transition:1s;
+}
+
+.drag {
+	font-size:50px;
+	border-bottom:3px solid black;
+	margin-left: 550px;
+	margin-right: 500px;
+}
+
+.signature img {
+	display:block;
+	padding-left: 550px
+}
+
+.title {
+	font-size: 24vw;
+	text-align: center;
+}
+
+.drag-image {
+	width: 300px;
+  	cursor: move;
+  	padding: 0px;
+  	position: relative;
+}
+
+.image-1 {
+	left: 214px;
+    top: -1000px;
+}
+
+.image-2 {
+	left: 114px;
+    top: -500px;
+}
+
+.image-3 {
+    left: 314px;
+    top: -500px;	
+}
+
+.image-4 {
+	left: 914px;
+    top: -300px;
+}
+
+.explanation {
+	padding-left:100px;
+}
+
+.thumb {
+	display:block;
+	padding-left: 500px;
+
+}
+
+.thumb img:hover {
+	filter:opacity(40%);
+	transition: 1s;
+
+}
+
+.Edit {
+	font-size:50px;
+	color:red;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
